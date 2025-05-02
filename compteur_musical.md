@@ -116,7 +116,7 @@ input.onButtonPressed(Button.A, function () {
 
     
 ## Étape 12
-Ajoute le bloc `` ||Music: jouer tonalité Middle G pour 1 temps jusqu'à la fin||`` dans le bloc ``||logic:si vrai ... alors ||``
+Ajoute le bloc ``||Music: jouer tonalité Middle G pour 1 temps jusqu'à la fin||`` dans le bloc ``||logic:si vrai ... alors ||``
 ### Compose une mélodie en ajoutant des blocs et en modifiant les notes et le temps.
 
 
