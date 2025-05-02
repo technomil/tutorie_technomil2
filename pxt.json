@@ -12,7 +12,8 @@
         "main.ts",
         "README.md",
         "compteur_musical.md",
-        "initiaiton_servo_mini_golf.md"
+        "initiaiton_servo_mini_golf.md",
+        "initiation_2boutons_servo_minigolf.md"
     ],
     "testFiles": [
         "test.ts"
