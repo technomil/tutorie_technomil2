@@ -11,7 +11,8 @@
         "main.blocks",
         "main.ts",
         "README.md",
-        "compteur_musical.md"
+        "compteur_musical.md",
+        "initiaiton_servo_mini_golf.md"
     ],
     "testFiles": [
         "test.ts"
