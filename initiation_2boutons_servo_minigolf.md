@@ -13,11 +13,9 @@ Glisse le bloc ``||input:lorsque le bouton A est pressé||``.
 
 
 ```blocks
-input.onButtonPressed(Button.A, function () {
+input.onButtonPressed(Button.A, function ()
 
-})
-
-````
+```
 ## Étape 2
 
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton A est pressé||``.
@@ -40,7 +38,7 @@ input.onButtonPressed(Button.B, function () {
 
 })
 
-````
+```
 ## Étape 4
 
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton B est pressé||``.
