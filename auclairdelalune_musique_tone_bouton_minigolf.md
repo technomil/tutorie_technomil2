@@ -68,7 +68,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Étape 7
 Ajoute un dernier bloc `` || Music: jouer tonalité Middle C pour 1 temps jusqu'à la fin||`` sous les autres.
-#### Modifie Middle C (Do) pour Low A (La) et 1 pour 2.
+#### Modifie Middle C (Do) pour Middle A (La) et 1 pour 2.
 
 ```blocks
 input.onButtonPressed(Button.A, function () {
