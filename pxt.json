@@ -18,7 +18,9 @@
         "servo_moteur_inclinaison_minigolf.md",
         "initiation_servo_minigolf_V2.md",
         "compteur_points_circuit_minigolf.md",
-        "animation_bouton_minigolf.md"
+        "animation_bouton_minigolf.md",
+        "microbit_musical_boutons_minigolf.md",
+        "auclairdelalune_musique_tone_bouton_minigolf.md"
     ],
     "testFiles": [
         "test.ts"
