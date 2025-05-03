@@ -17,7 +17,8 @@
         "servo_moteur_aleatoires_minigolf.md",
         "servo_moteur_inclinaison_minigolf.md",
         "initiation_servo_minigolf_V2.md",
-        "compteur_points_circuit_minigolf.md"
+        "compteur_points_circuit_minigolf.md",
+        "animation_bouton_minigolf.md"
     ],
     "testFiles": [
         "test.ts"
