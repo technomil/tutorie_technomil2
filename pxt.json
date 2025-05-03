@@ -15,7 +15,8 @@
         "initiaiton_servo_mini_golf.md",
         "initiation_2boutons_servo_minigolf.md",
         "servo_moteur_aleatoires_minigolf.md",
-        "servo_moteur_inclinaison_minigolf.md"
+        "servo_moteur_inclinaison_minigolf.md",
+        "test.md"
     ],
     "testFiles": [
         "test.ts"
