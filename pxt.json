@@ -20,7 +20,9 @@
         "compteur_points_circuit_minigolf.md",
         "animation_bouton_minigolf.md",
         "microbit_musical_boutons_minigolf.md",
-        "auclairdelalune_musique_tone_bouton_minigolf.md"
+        "auclairdelalune_musique_tone_bouton_minigolf.md",
+        "test_servo_blocsverts.md",
+        "circuit_affichage_servo_extra_minigolf.md"
     ],
     "testFiles": [
         "test.ts"
