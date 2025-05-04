@@ -22,7 +22,8 @@
         "microbit_musical_boutons_minigolf.md",
         "auclairdelalune_musique_tone_bouton_minigolf.md",
         "test_servo_blocsverts.md",
-        "circuit_affichage_servo_extra_minigolf.md"
+        "circuit_affichage_servo_extra_minigolf.md",
+        "circuit_affichage_servo_si_sinon_extra_minigolf.md"
     ],
     "testFiles": [
         "test.ts"
