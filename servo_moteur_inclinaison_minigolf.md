@@ -20,7 +20,7 @@ input.onGesture(Gesture.TiltRight, function () {
 ## Étape 2
 
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque incliner à droite||``.
-#### Choisis la broche P1 et remplace le chiffre 0 par 180.
+#### Choisis la broche P1 et assure-toi que le chiffre 180 soit inscrit.
 ``` blocks
 
 input.onGesture(Gesture.TiltRight, function () {
@@ -43,7 +43,7 @@ input.onGesture(Gesture.TiltLeft, function () {
 
 ##Étape 4
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque incliner à gauche||``.
-#### Choisis la broche P1.
+#### Choisis la broche P1 et assure-toi que le chiffre 0 soit inscrit.
 ``` blocks
 
 input.onGesture(Gesture.TiltLeft, function () {
