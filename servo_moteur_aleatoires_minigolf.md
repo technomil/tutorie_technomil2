@@ -31,7 +31,7 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 ## Étape 3
-Glisse le bloc mauve ``||maths: choisir au hasard de||`` dans le bloc ``||input:lorsque le bouton A est pressé||``.
+Glisse le bloc mauve ``||maths: choisir au hasard de||`` dans le bloc ``||pins: régler position servo broche||``.
 #### Remplace le nombre 10 par le nombre 180.
 ``` blocks
 
@@ -42,7 +42,7 @@ input.onButtonPressed(Button.A, function () {
 
 
 ```
-##Étape 4
+## Étape 4
 
 Glisse le bloc ``||input:lorsque le bouton A est pressé||``.
 #### Remplace A par B
@@ -53,10 +53,10 @@ input.onButtonPressed(Button.B, function () {
 })
 
 ```
-## Étape 4
+## Étape 5
 
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton B est pressé||``.
-#### Choisi la broche P1
+#### Choisis la broche P1 et remplace 180 par 0.
 
 ``` blocks
 input.onButtonPressed(Button.B, function () {
@@ -66,8 +66,8 @@ input.onButtonPressed(Button.B, function () {
 ```
 
 
-## Étape 5
-Branche ton servo-moteur comme sur l'image (regarde dans ton cahier de tutoriel au besoin)
+## Étape 6
+Branche ton servo-moteur comme sur le simulateur (regarde dans ton cahier de tutoriel au besoin)
 ### Bravo! Tu as réussi! Essaie plusieurs fois! Les angles varient.
 
 ``` blocks
