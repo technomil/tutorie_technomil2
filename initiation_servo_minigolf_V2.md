@@ -66,7 +66,7 @@ input.onButtonPressed(Button.B, function () {
 })
 ```
 ## Étape 6
-Branche ton servo-moteur comme sur l'image (regarde dans ton cahier de tutoriel au besoin)
+Branche ton servo-moteur comme sur le simulateur (regarde dans ton cahier de tutoriel au besoin)
 ### Bravo! Tu as réussi!
 
 
