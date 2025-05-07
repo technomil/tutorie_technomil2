@@ -30,7 +30,7 @@ input.onButtonPressed(Button.B, function () {
 ## Étape 3
 
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton B est pressé||``.
-#### Choisi la broche P1 et remplace 0 par 180.
+#### Choisi la broche P1 et assure-toi qu'il est inscrit 180.
 
 ``` blocks
 input.onButtonPressed(Button.B, function () {
@@ -55,8 +55,8 @@ input.onButtonPressed(Button.B, function () {
 
 ## Étape 5
 
-Glisse un autre bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton A est pressé||``.
-#### Choisi la broche P1 
+Glisse un autre bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton B est pressé||``.
+#### Choisis la broche P1 et modifie 180 par 0.
 
 ``` blocks
 input.onButtonPressed(Button.B, function () {
