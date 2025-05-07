@@ -57,7 +57,7 @@ basic.forever(function () {
 
 ## Étape 6
 Glisse le bloc ``||pins:régler position servo broche P0 à 180 ||`` sous le dernier bloc ``||basic:  montrer l'icône||`` .
-#### Remplace 180 par 90
+#### Choisis la broche P1 et remplace 180 par 90
 
 ``` blocks
 basic.forever(function () {
@@ -91,7 +91,7 @@ basic.forever(function () {
     ```
 ## Étape 8
 Glisse le bloc ``||pins:régler position servo broche P0 à 180 ||`` sous  le bloc ``||basic:  pause||`` .
-#### Remplace 180 par 0
+#### Choisis la broche P1 et remplace 180 par 0.
 
 ``` blocks
 basic.forever(function () {
