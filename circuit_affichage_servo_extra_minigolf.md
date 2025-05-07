@@ -8,7 +8,7 @@ Supprime le bloc ``||basic:toujours||`` .
 
 
 ## Étape 1
-Glisse le bloc ``||basic: montrer l'icône||`` dans sous le bloc  ``||basic:montrer l'icône|`` .
+Glisse le bloc ``||basic: montrer l'icône||`` sous le bloc  ``||basic:montrer l'icône|`` .
 #### Choisis le crochet.
 `
 ``` blocks
@@ -19,7 +19,7 @@ basic.showIcon(IconNames.Yes)
 
 ## Étape 2
 Glisse le bloc  ``||pins: régler position servo broche P0 à 180||`` .
-#### Remplace 180 par 0.
+#### Conserve la broche P0 et remplace 180 par 0.
 
 ``` blocks
 basic.showIcon(IconNames.Yes)
@@ -27,13 +27,13 @@ pins.servoWritePin(AnalogPin.P0, 0)
 ```
 
 ## Étape 3
-Glisse le bloc `` || input: lorsque le bouton A est pressé || `` dans l'espace de travail.
-
+Glisse le bloc ``||input: broche P0 est pressée||`` dans l'espace de travail.
+#### Conserve la broche P0.
 ``` blocks
-input.onPinPressed(TouchPin.P0, function
+input.onPinPressed(TouchPin.P1, function
 ```
 ## Étape 4
-Glisse le bloc  ``||basic:  montrer LEds||`` dans le bloc `` || input: lorsque le bouton A est pressé || `` .
+Glisse le bloc  ``||basic:  montrer LEds||`` dans le bloc ``||input: broche P0 est pressée||`` .
 #### Dessine une image comme dans l'indice.
 
 ``` blocks
