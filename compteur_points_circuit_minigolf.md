@@ -34,7 +34,7 @@ basic.forever(function () {
 
 ```
 
-##Étape 4
+## Étape 4
 Glisse le bloc ``||variables:points||`` dans le bloc  ``||basic:montrer nombre||`` 
 
 
@@ -58,7 +58,7 @@ input.onPinPressed(TouchPin.P0, function () {
 
 ## Étape 6
 Glisse le bloc ``||variables:modifier points de||`` dans le bloc ``||input:lorsque la broche P0 est activée||``.
-
+#### Assure-toi qu'il soit bien écrit 1 dans le bloc ``||variables:modifier points de||``.
 ```blocks
 input.onPinPressed(TouchPin.P0, function () {
     point += 1
@@ -76,6 +76,7 @@ input.onButtonPressed(Button.A, function () {
 
 ## Étape 8
 Glisse le bloc ``||variables:définir point à||`` dans le bloc ``||input:lorsque le bouton A est pressé||``.
+#### Assure-toi qu'il soit bien écrit 0 dans le bloc ``||variables:définir point à||``.
 ``` blocks
 
 input.onButtonPressed(Button.A, function () {
@@ -84,7 +85,7 @@ input.onButtonPressed(Button.A, function () {
 ```
 
 ## Étape
-Branche ton servo-moteur comme sur l'image. Assure-toi de choisir la bonne broche!
+Branche ton servo-moteur comme sur le simulateur. Assure-toi de choisir la bonne broche!
 ### Bravo! Tu as réussi!
 
 ``` blocks
