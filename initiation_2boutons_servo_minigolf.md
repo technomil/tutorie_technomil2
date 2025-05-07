@@ -42,7 +42,7 @@ input.onButtonPressed(Button.B, function () {
 ## Étape 4
 
 Glisse le bloc ``||pins: régler position servo broche||``dans le bloc  ``||input:lorsque le bouton B est pressé||``.
-#### Choisi la broche P1
+#### Choisi la broche P1 et écris 0.
 
 ``` blocks
 input.onButtonPressed(Button.B, function () {
@@ -59,10 +59,12 @@ Branche ton servo-moteur comme sur l'image (regarde dans ton cahier de tutoriel 
 ``` blocks
 
 input.onButtonPressed(Button.A, function () {
-    pins.servoWritePin(AnalogPin.P1, 180)
+    pins.servoWritePin(AnalogPin.P1, 90)
 })
 input.onButtonPressed(Button.B, function () {
     pins.servoWritePin(AnalogPin.P1, 0)
 })
 
-```` 
+
+```
+
