@@ -129,7 +129,8 @@ basic.forever(function () {
     ```
 
 ## Bravo! Tu as terminé
-Branche ton servo-moteur comme sur le simulateur. Choisis bien la bonne broche.
+Connecte tes fils à pince crocodile comme sur l'image
+<img src="https://raw.githubusercontent.com/technomil/tutoriels_technomil/master/branchement%20boule.png" alt="Branchement Boule" width="300">
 
 ``` blocks
 basic.showIcon(IconNames.Yes)
